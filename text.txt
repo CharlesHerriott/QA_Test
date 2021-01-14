@@ -1,6 +1,6 @@
 edit under main
 
-edit under new branch
+edit other branch
 
 other changes
 
